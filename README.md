@@ -31,35 +31,42 @@ With a strong foundation in **C/C++, Python, JavaScript, and SQL**, I have been 
 
 ### 1. Note-Taking API  
 A simple and efficient **Note-Taking API** built with **Node.js, Express.js, and MongoDB using TypeScript**. It provides full CRUD operations to manage notes easily.  
+
 🔗 **GitHub Repo:** [Note-Taking API](https://github.com/OsamaRab3/Note-Taking)
 
 ---
 ### 2. AI-Fitness-Coach
 An intelligent fitness companion that creates personalized exercise and nutrition plans powered by Gemini AI.
+
 🔗 **GitHub Repo:**  [AI-Fitness-Coach](https://github.com/OsamaRab3/AI-Fitness-Coach)
 
 ---
 ### 3. Amazon Product Scraper with Stream Support
 A Node.js script that uses Puppeteer to scrape product data from Amazon Egypt’s video games section. It features stream-based JSON writing for efficient large-scale data handling. The script navigates multiple pages, extracts product details, and saves them in a JSON file.
+
 🔗 **GitHub Repo:** [Amazon Product Scraper](https://github.com/OsamaRab3/Web-Scrapping)
 
 ---
 ### 4. Node.js Stream File Copy Examples
 This repository contains three different Node.js scripts demonstrating various methods to copy files using streams. Each approach highlights different techniques for efficient file handling.
+
 🔗 **GitHub Repo:** [Streams-Node.Js](https://github.com/OsamaRab3/Streams-Node.Js)
 
 ---
 ### 5. Odin Project
 A collection of 9 practical tasks completed as part of The Odin Project Node.js curriculum. Covers essential backend concepts such as authentication, real-time communication, database management, and API security.
+
 🔗 **GitHub Repo:** [Odin Project](https://github.com/OsamaRab3/Odin-Project)
 
 ---
 ### 6. Library Management System 
 A robust and user-friendly system for managing library resources, including book inventories, member registrations, borrowing/returning books, and overdue fines. It enhances library operations and improves service efficiency.
+
 🔗 **GitHub Repo:** [Library Management System](https://github.com/OsamaRab3/Library-Management-System)
 
-
+---
 ### 7. NodeJs Templet 
 A minimal and well-structured Node.js project template(JS-TS) designed to speed up development with a clean folder structure and reusable configurations.
+
 🔗 **GitHub Repo:** [NodeJs Templet](https://github.com/OsamaRab3/Node.js-Starter-Template)
 
